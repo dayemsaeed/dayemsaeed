@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @dayemsaeed
+- 📱 Previously worked as an Android developer at Amazon
 - 👀 I’m interested in machine learning and mobile app development
 - 🌱 I’m currently learning AWS and iOS app development
 - 💞️ I’m looking to collaborate on any interesting projects
